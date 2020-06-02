@@ -4,7 +4,9 @@ FinalProjectBootcamp
 
 
 FinalProjectBootcamp is used for testing functionalities:
+
 Target application URL is: https://petstore.octoperf.com/.
+
 
 
 Browser: Chrome Browser version: 79.0.3945.36
@@ -18,6 +20,7 @@ TestNG automation testing framework
 Selenium portable framework for testing web applications
 
 Apache POI
+
 
 
 The following website functionalities are tested:
@@ -49,6 +52,7 @@ Check if cart is empty
 Using soft assert
 
 
+
 This project contains 3 packages:
 
 Pages
@@ -56,6 +60,7 @@ Pages
 Tests
 
 Utilis
+
 
 
 
@@ -74,6 +79,7 @@ SignInPage
 StoreItemPage
 
 
+
 Package Tests contains 5 classes:
 
 CartTest
@@ -87,14 +93,17 @@ RegistrationPageTest
 SignInPageTest
 
 
+
 Package Utilis contains 1 class:
 
 ExcelUtils
 
 
+
 Folder data contains 1 xlsx file
 
 pet-store-data.xlsx
+
 
 
 Folder Config contains
