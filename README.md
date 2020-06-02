@@ -9,7 +9,7 @@ Target application URL is: https://petstore.octoperf.com/.
 
 
 
-Browser: Chrome Browser version: 79.0.3945.36
+Browser: Chrome Browser version: 80.0.3987.106
 
 Run test suite: TestNg.xml
 
